@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, And Namaste 🙏</h1>
 
-#### <h3 align="center">A Enthusiastic Developer.</h3>
+#### <h3 align="center">An Enthusiastic Developer.</h3>
 
 <br />
 
